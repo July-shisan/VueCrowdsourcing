@@ -1,0 +1,25 @@
+{
+    "all":
+    {
+        // Maximum number of line breaks to be preserved in one chunk (0 disables)
+        "max_preserve_newlines": 3
+    },
+
+    "html":
+    {
+        // [keep|separate|normal]
+        "indent_scripts": "normal",
+
+        // List of tags that should not be reformatted
+        "unformatted": ["code", "pre", "sub", "sup", "em", "strong", "strike", "big", "small", "h1", "h2", "h3", "h4", "h5", "h6"]
+    },
+
+    "css":
+    {
+        // Add a new line after every css rule
+        "newline_between_rules": false,
+
+        // Separate selectors with newline or not (e.g. "a,\nbr" or "a, br")
+        "selector_separator_newline": true
+    }
+}

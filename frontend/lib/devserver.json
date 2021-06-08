@@ -1,0 +1,6 @@
+{
+    "description": "此配置仅供本地开发使用; chameleonServer 根据真实接口地址进行修改",
+    "host": "127.0.0.1",
+    "port": 8082,
+    "chameleonServer": "http://192.168.0.222:8080"
+}

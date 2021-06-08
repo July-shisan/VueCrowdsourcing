@@ -1,0 +1,12 @@
+# 将此文件复制为 .gitignore
+# 不要修改此文件，修改 .gitignore
+logs/
+attach/
+public/
+node_modules/
+
+.gitignore
+package-lock.json
+
+# 下面添加自己的过滤文件
+# 比如： .vscode
